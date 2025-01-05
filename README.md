@@ -22,4 +22,4 @@ The goal is to experiment with small layouts and styles to understand how CSS pr
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/html-css-basics-practice.git  
+   git clone https://github.com/aniquatasnim/100xdev_assignments.git
